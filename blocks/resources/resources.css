@@ -1,7 +1,6 @@
 .resources {
     display: flex;
     position: relative;
-    margin-top: 0px;
     flex-direction: column;
     margin-top: 100px;
   }
