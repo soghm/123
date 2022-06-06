@@ -1,0 +1,8 @@
+.footer__column {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer__column:first-child {
+    justify-content: space-between;
+  }
