@@ -3,6 +3,5 @@
     box-sizing: border-box;
     min-height: 350px;
     display: flex;
-  position: relative;
   margin: 0;
 }
