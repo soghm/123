@@ -7,8 +7,4 @@
     z-index: -1;
     background-color:#2f80ed;
     animation-name: rotation;
-    animation-timing-function: linear;
-    animation-iteration-count:infinite;
-    animation-direction:normal;
-    animation-duration:20s;
   }
