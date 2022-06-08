@@ -7,4 +7,8 @@
     overflow: hidden;
     background-color: #f2f2f2;
     z-index: 1;
+    padding-left: 64px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
   }
