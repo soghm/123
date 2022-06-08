@@ -3,8 +3,7 @@
     width: 568px;
     height: 568px;
     right: 0;
-    margin-top: 64px;
+    top: 64px;
     z-index: -1;
     background-color:#2f80ed;
-    animation-name: rotation;
   }
