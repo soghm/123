@@ -1,9 +1,9 @@
 .footer__column-link {  
     color: white;
     font-weight: normal;
-    flex-direction: column;
     text-decoration: none;
     line-height: 30px;
     font-size: 18px;
-    list-style: none;
+    list-style-type: none;
+    margin: 0 0 0 0;
   }
