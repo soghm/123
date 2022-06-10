@@ -8,3 +8,8 @@
     padding-top: 0;
     margin-right: 48px;
 }
+
+.khan__buy-link:hover{
+  opacity: 50%;
+  transition: opacity .5s linear .5s;
+}
